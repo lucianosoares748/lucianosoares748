@@ -30,3 +30,5 @@
 
   #### “Se depurar é o processo de remoção de bugs do software, então programação deve ser o processo de colocação deles.”
   Edsger Dijkstra
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
